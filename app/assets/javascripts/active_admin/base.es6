@@ -1,4 +1,4 @@
-import 'jquery3'
+import 'jquery'
 import '../../../../vendor/assets/javascripts/jquery-ui/widgets/datepicker'
 import '../../../../vendor/assets/javascripts/jquery-ui/widgets/dialog'
 import '../../../../vendor/assets/javascripts/jquery-ui/widgets/sortable'
