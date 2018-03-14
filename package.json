@@ -3,6 +3,10 @@
   "version": "1.2.1",
   "description": "Package for activeadmin assets",
   "main": "index.js",
+  "dependencies": {
+    "jquery3": "~3.3",
+    "jquery-ujs": "~1.2.2"
+  },
   "directories": {
     "doc": "docs",
     "lib": "lib"
