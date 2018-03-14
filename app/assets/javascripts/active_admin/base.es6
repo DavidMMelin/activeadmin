@@ -5,7 +5,9 @@ import '../../../../vendor/assets/javascripts/jquery-ui/widgets/sortable'
 import '../../../../vendor/assets/javascripts/jquery-ui/widgets/tabs'
 import '../../../../vendor/assets/javascripts/jquery-ui/widget'
 import 'jquery-ujs'
-// require_self
+
+window.ActiveAdmin = {}
+
 import './ext/jquery.es6'
 import './ext/jquery-ui.es6'
 import './lib/active_admin.es6'
@@ -19,5 +21,3 @@ import './lib/table-checkbox-toggler.es6'
 import './initializers/datepicker.es6'
 import './initializers/filters.es6'
 import './initializers/tabs.es6'
-
-window.ActiveAdmin = {}
